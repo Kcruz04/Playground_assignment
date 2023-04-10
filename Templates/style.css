@@ -1,0 +1,16 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+.box{
+    background-color: antiquewhite;
+    width: 100px;
+    height: 100px;
+}
+.bigbox{
+    width: 1000px;
+    height: 1000px;
+    background-color: aqua;
+
+}
